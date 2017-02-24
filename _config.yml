@@ -8,12 +8,12 @@ Achieved industry relevant Credentials PMP , ITIL V3 Expert ,Six Sigma and Agile
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rameshmahadevan.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 4b, Prem Nagar, Saligramam
+city: Chennai
+state: Tamil Nadu
+zip_code: 600093
+country: India
+phone: +91 9884716535
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -23,13 +23,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
